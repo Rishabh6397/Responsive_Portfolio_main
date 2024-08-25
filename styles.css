@@ -622,6 +622,9 @@ textarea.contact-input {
 
 .blog-card .card-banner img {
   transition: var(--transition-2);
+
+   
+  
 }
 
 .blog-card .card-banner a:is(:hover, :focus) img {
